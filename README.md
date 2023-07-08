@@ -75,12 +75,12 @@ their current position information. The desired columns are EmployeeId, FullName
 PosTitle, StartDate, and EndDate. and Here is the Output :
 
   <p align="center">
-  <img src="Images/Query_Basic_Output.png" width=550 align="center">
+  <img src="Images/Query_Basic_Output.png" width=700 align="center">
  </p>
 
     - ** Note: If you want to execute this step, I have already provided a query to create the table, insert data, 
     and perform a basic query.
-    
+
 ## Project Results
 Below are a few sample screenshots showcasing the results of the project:
 
