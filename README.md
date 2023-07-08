@@ -6,22 +6,14 @@
 <p align="center">
   <img src="JPEG/Header.png" width=800 align="center">
 </p>
-<h1 align="center">Hi Mate👋, I am Rahmad Gunawan 
-from SDE Batch 01 Pacmann</h1>
-<h3 align="center">Python Project I </h3>
+<h1 align="center">Hi I am Rahmad Gunawan </h1>
+<h3 align="center"> Simple ETL </h3>
 
 By [Rahmad Gunawan](https://www.linkedin.com/in/ragunnn/)
 ## Dashboard
 <p align="center">
-  <a href="https://youtu.be/Uycz73DydLM">
-    <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Logo.wine.svg" alt="Youtube Logo" width="120" height="120">
-    <br>
-    <b>Youtube Presentation</b>
-  </a>
 </p>
 
-<center><h2><b>Super Cashier!</b></h2></center>
-<p align="center">Super Cashier! is a simple app system that allows customers to input purchased items, quantity, and price. Additionally, it offers other features like payment options and remote purchasing.</p>
 
 ## Introduction
 
@@ -34,25 +26,33 @@ This repository contains scripts, notebooks, and queries to handle basic data op
     - query_employees.sql: This script contains a SQL query to retrieve all employee data with their current position information.
 
 ## Notebooks
-
-    data_generation.ipynb: This notebook demonstrates how to generate fake data for the Employee and PositionHistory tables using the Faker library. It also includes Python and SQL code snippets for table creation and data insertion, providing a comprehensive guide for executing these operations.
+Data_generation.ipynb: This notebook demonstrates how to generate fake data for the Employee and PositionHistory tables using the Faker library. It also includes Python and SQL code snippets for table creation and data insertion, providing a comprehensive guide for executing these operations.
 
 ## ETL, Data Warehouse, and Analytics Task
 
 This section focuses on building a comprehensive ETL, Data Warehouse, and analytics system using Pentaho for ETL, Snowflake as the data warehouse, and Grafana for visualization.
 Steps
 
-    Data Generation: The data_generation.ipynb notebook provides code to generate sample data using the Faker library. Execute the notebook to generate realistic data for the Employee and PositionHistory tables.
-
-    Table Creation and Data Insertion: Use the provided scripts or code snippets (create_table.sql, insert_data.sql) to create the required tables and insert the generated sample data.
-
-    ETL with Pentaho: Utilize Pentaho to design and execute the ETL flow. Connect to the data sources (Azure Employee data and GCP Training History), perform necessary transformations, and load the data into the Snowflake data warehouse.
-
-    Data Warehouse: Set up Snowflake as the data warehouse to store and manage the compiled data from the ETL process. Define appropriate schema and tables to accommodate the data.
-
-    Reporting: Design and create reports to display historical training data using the data available in the Snowflake data warehouse. Utilize tools such as Pentaho Reporting or any other reporting tool of your choice.
-
-    Visualization with Grafana: Connect Grafana to the Snowflake data warehouse and create dashboards to visualize key metrics, such as the total number of employees who completed training each month and the total number of training sessions held each month. Configure appropriate visualizations and share insights from the data.
+    - Data Generation: The data_generation.ipynb notebook provides code to generate sample data using 
+      the Faker library. Execute the notebook to generate realistic data for the Employee and PositionHistory tables.
+      
+    - Table Creation and Data Insertion: Use the provided scripts or code snippets (create_table.sql, insert_data.sql) 
+      to create the required tables and insert the generated sample data.
+      
+    - ETL with Pentaho: Utilize Pentaho to design and execute the ETL flow. Connect to the data sources 
+      (Azure Employee data and GCP Training History), perform necessary transformations, and load the data 
+      into the Snowflake data warehouse.
+      
+    - Data Warehouse: Set up Snowflake as the data warehouse to store and manage the compiled data from 
+      the ETL process. Define appropriate schema and tables to accommodate the data.
+      
+    - Reporting: Design and create reports to display historical training data using the data available 
+     in the Snowflake data warehouse. Utilize tools such as Pentaho Reporting or any other reporting tool of your choice.
+     
+    - Visualization with Grafana: Connect Grafana to the Snowflake data warehouse and create dashboards to 
+    visualize key metrics, such as the total number of employees who completed training each month and 
+    the total number of training sessions held each month. Configure appropriate visualizations and 
+    share insights from the data.
 
 ## Project Results
 
