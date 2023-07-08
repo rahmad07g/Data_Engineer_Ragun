@@ -126,26 +126,42 @@ Sample Analytical Query
       including dwh_table.sql for table creation, extract_load_dwh.ktr for the Pentaho ETL process, 
       and query_analytical.sql for analytical queries. 
 
-## Project Results
+## Project Results - Grafana Dashboard
 Below are a few sample screenshots showcasing the results of the project:
+    
+    Report  Historical Training Employee
+  <p align="center">
+  <img src="Report_Historical_Employee_Dashboard.png" width=750 align="center">
+ </p>
 
     Dashboard in Grafana displaying the total number of employees who completed training each month.
 
-Grafana Dashboard
-
-    Report generated using Pentaho Reporting, presenting historical training data.
-
-Pentaho Report
+  <p align="center">
+  <img src="Visualization Dashboard.png" width=750 align="center">
+ </p>
 
 With the provided scripts, notebooks, and steps, you can replicate and customize this project to suit your specific requirements. Enjoy exploring and analyzing your data!
 
- ## Here's how to use the program:
-   
-    - Download all Python files/modules into a local directory.
-    - Open your terminal and navigate to the local directory.
-    - Run the Python script by typing "python script.py" in the terminal.
-    - Follow the prompts to input your order details.
-    - Enjoy using the program!
+## Here's how to use the program:
+Let's dive into the exciting world of data!
+
+    - Start by downloading all the script files and modules into a local directory. 
+      Make sure you have everything you need to unleash the power of your data.
+    - Get ready to ignite the database engine! Run the datasource script SQL file and 
+      feel the adrenaline rush as you set up the perfect  database environment.
+    - Time to generate some data magic! Open the Jupyter Notebook and watch as the code weaves its spell, 
+      creating meaningful and insightful data just for you.
+    - But wait, we're not done yet! Enter Pentaho, the master of data extraction and loading. Execute 
+      the "extract_load_dwh.ktr" file and let it work its magic, transforming raw data into a powerful force.
+    - Now it's time to unveil the hidden gems within your data. Run the SQL script and witness the birth 
+      of analytical insights. Prepare to be amazed as patterns emerge and trends reveal themselves.
+    - Visualize your data in style! Set up Grafana, your gateway to stunning and interactive dashboards. 
+      Connect it to your data source, and watch as your data comes to life in vibrant charts and graphs.
+    - Take a moment to savor the journey. Enjoy the thrill of exploring your data, gaining new insights, 
+      and making informed decisions. Let your imagination soar as you uncover hidden opportunities and 
+      unleash the full potential of your data.
+
+Get ready to embark on a data-driven adventure like no other. The stage is set, the scripts are in place. It's time to make your data dance to your tune. Let the excitement begin!
 
 ## Developed By
 1. [Rahmad Gunawan, Linkedin (Link)](https://www.linkedin.com/in/ragunnn/)
