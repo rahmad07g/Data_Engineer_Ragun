@@ -63,10 +63,24 @@ After creating the tables, we will proceed with the task of inserting sample dat
 Below is the query to create the tables:
 
   <p align="center">
-  <img src="Images/Create_Table.png" width=700 align="center">
+  <img src="Images/Create_Table.png" width=550 align="center">
  </p>
 
+  <p align="center">
+  <img src="Images/Insert_Data.png" width=550 align="center">
+ </p>
 
+After creating and inserting the data, we need to create a query to display all employee data including 
+their current position information. The desired columns are EmployeeId, FullName, BirthDate, Address, PosId, 
+PosTitle, StartDate, and EndDate. and Here is the Output :
+
+  <p align="center">
+  <img src="Images/Query_Basic_Output.png" width=550 align="center">
+ </p>
+
+    - ** Note: If you want to execute this step, I have already provided a query to create the table, insert data, 
+    and perform a basic query.
+    
 ## Project Results
 Below are a few sample screenshots showcasing the results of the project:
 
