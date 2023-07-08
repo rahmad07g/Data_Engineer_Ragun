@@ -37,8 +37,8 @@ Steps
       the Faker library. Execute the notebook to generate realistic data for the Employee and PositionHistory 
       tables.
       
-    - Table Creation and Data Insertion: Use the provided scripts or code snippets (create_table.sql, 
-      insert_data.sql) to create the required tables and insert the generated sample data.
+    - Table Creation and Data Insertion: Use the provided scripts or code snippets (create_insert_perform.sql) 
+      to create the required tables and insert the generated sample data.
       
     - ETL with Pentaho: Utilize Pentaho to design and execute the ETL flow. Connect to the data sources 
       (Azure Employee data and GCP Training History), perform necessary transformations, and load the data 
