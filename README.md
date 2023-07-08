@@ -56,8 +56,18 @@ Steps
       the total number of training sessions held each month. Configure appropriate visualizations and 
       share insights from the data.
 
-## Project Results
+## Data and Query Task (Basic)
 
+In this step, we need to create tables (Employee and PositionHistory) as the database source storage in Azure/SSMS. 
+After creating the tables, we will proceed with the task of inserting sample data to verify the expected output. 
+Below is the query to create the tables:
+
+  <p align="center">
+  <img src="Images/Create_Table.png" width=700 align="center">
+ </p>
+
+
+## Project Results
 Below are a few sample screenshots showcasing the results of the project:
 
     Dashboard in Grafana displaying the total number of employees who completed training each month.
@@ -82,7 +92,6 @@ With the provided scripts, notebooks, and steps, you can replicate and customize
 
   <p align="center">
   <img src="JPEG/Flowchart.png" width=700 align="center">
-  
  </p>
 
     1. The first step is to import libraries: 'sqlite3'.
