@@ -131,13 +131,13 @@ Below are a few sample screenshots showcasing the results of the project:
     
     Report  Historical Training Employee
   <p align="center">
-  <img src="Report_Historical_Employee_Dashboard.png" width=750 align="center">
+  <img src="Images/Report_Historical_Employee_Dashboard.png" width=750 align="center">
  </p>
 
     Dashboard in Grafana displaying the total number of employees who completed training each month.
 
   <p align="center">
-  <img src="Visualization Dashboard.png" width=750 align="center">
+  <img src="Images/Visualization Dashboard.png" width=750 align="center">
  </p>
 
 With the provided scripts, notebooks, and steps, you can replicate and customize this project to suit your specific requirements. Enjoy exploring and analyzing your data!
@@ -169,6 +169,6 @@ Get ready to embark on a data-driven adventure like no other. The stage is set, 
       This is the result of my work, but I believe there is still room for improvement in this project. If you have any suggestions or would like to connect with me, feel free to do so. I greatly appreciate you taking the time to review my work. Together, we can create something even better!
 
 <p align="center">
-  <img src="JPEG/Thanks.jpg" width=400 align="center">
+  <img src="Images/Thanks.jpg" width=400 align="center">
   
 </p>
