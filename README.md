@@ -147,16 +147,22 @@ Let's dive into the exciting world of data!
 
     - Start by downloading all the script files and modules into a local directory. 
       Make sure you have everything you need to unleash the power of your data.
+
     - Get ready to ignite the database engine! Run the datasource script SQL file and 
       feel the adrenaline rush as you set up the perfect  database environment.
+
     - Time to generate some data magic! Open the Jupyter Notebook and watch as the code weaves its spell, 
       creating meaningful and insightful data just for you.
+
     - But wait, we're not done yet! Enter Pentaho, the master of data extraction and loading. Execute 
       the "extract_load_dwh.ktr" file and let it work its magic, transforming raw data into a powerful force.
+
     - Now it's time to unveil the hidden gems within your data. Run the SQL script and witness the birth 
       of analytical insights. Prepare to be amazed as patterns emerge and trends reveal themselves.
+
     - Visualize your data in style! Set up Grafana, your gateway to stunning and interactive dashboards. 
       Connect it to your data source, and watch as your data comes to life in vibrant charts and graphs.
+
     - Take a moment to savor the journey. Enjoy the thrill of exploring your data, gaining new insights, 
       and making informed decisions. Let your imagination soar as you uncover hidden opportunities and 
       unleash the full potential of your data.
@@ -169,6 +175,6 @@ Get ready to embark on a data-driven adventure like no other. The stage is set, 
       This is the result of my work, but I believe there is still room for improvement in this project. If you have any suggestions or would like to connect with me, feel free to do so. I greatly appreciate you taking the time to review my work. Together, we can create something even better!
 
 <p align="center">
-  <img src="Images/Thanks.jpg" width=400 align="center">
+  <img src="Images/Thanks.jpg" width=550 align="center">
   
 </p>
