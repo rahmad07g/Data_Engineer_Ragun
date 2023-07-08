@@ -4,7 +4,7 @@
 **This is Assessment Test**
 
 <p align="center">
-  <img src="JPEG/Header.png" width=800 align="center">
+  <img src="Images/Workflow_Data.png" width=800 align="center">
 </p>
 <h1 align="center">Hi I am Rahmad Gunawan </h1>
 <h3 align="center"> Simple ETL </h3>
@@ -34,10 +34,11 @@ This section focuses on building a comprehensive ETL, Data Warehouse, and analyt
 Steps
 
     - Data Generation: The data_generation.ipynb notebook provides code to generate sample data using 
-      the Faker library. Execute the notebook to generate realistic data for the Employee and PositionHistory tables.
+      the Faker library. Execute the notebook to generate realistic data for the Employee and PositionHistory 
+      tables.
       
-    - Table Creation and Data Insertion: Use the provided scripts or code snippets (create_table.sql, insert_data.sql) 
-      to create the required tables and insert the generated sample data.
+    - Table Creation and Data Insertion: Use the provided scripts or code snippets (create_table.sql, 
+      insert_data.sql) to create the required tables and insert the generated sample data.
       
     - ETL with Pentaho: Utilize Pentaho to design and execute the ETL flow. Connect to the data sources 
       (Azure Employee data and GCP Training History), perform necessary transformations, and load the data 
@@ -47,12 +48,13 @@ Steps
       the ETL process. Define appropriate schema and tables to accommodate the data.
       
     - Reporting: Design and create reports to display historical training data using the data available 
-     in the Snowflake data warehouse. Utilize tools such as Pentaho Reporting or any other reporting tool of your choice.
+      in the Snowflake data warehouse. Utilize tools such as Pentaho Reporting or any other reporting 
+      tool of your choice.
      
     - Visualization with Grafana: Connect Grafana to the Snowflake data warehouse and create dashboards to 
-    visualize key metrics, such as the total number of employees who completed training each month and 
-    the total number of training sessions held each month. Configure appropriate visualizations and 
-    share insights from the data.
+      visualize key metrics, such as the total number of employees who completed training each month and 
+      the total number of training sessions held each month. Configure appropriate visualizations and 
+      share insights from the data.
 
 ## Project Results
 
